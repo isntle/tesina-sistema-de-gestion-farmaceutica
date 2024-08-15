@@ -1,0 +1,586 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SheloNabel
+</name>
+</assembly>
+<members>
+<member name="T:SheloNabel.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.aceptar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.aglutinante">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.agregar_usuario">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.aire_acondicionado">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.analisis">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.audifonos_inalambricos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.basura">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.basura__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.basura__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.Bloqueo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.bote_de_basura">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.boton">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.boton__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.boton_de_emergencia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.boton_de_grabacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.boton_de_menu_de_tres_lineas_horizontales">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.busqueda">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.busqueda__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.carrito_de_compras">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.casa_icono_silueta">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.casa_icono_silueta__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.comprobar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.creditos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.cuadro">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.encendido">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.escritorio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.estadisticas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.estadisticas__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.estante_para_libros">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.flecha_correcta__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.flecha_izquierda">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.guardar_el_archivo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.impresora__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.lampara_de_escritorio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.LOFI_Shelo">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.mapa">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.microfono">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.music">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.ordenador_portatil">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.pago_por_clic">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.pago_por_clic__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.pago_por_clic__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.pago_web">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.pila_de_libros">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.pluma_y_lapiz">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.poder">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.reloj_de_pared__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.salida">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.salida__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.salida__2_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.salida_de_emergencia__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.salvar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.salvar__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.SheloNabelIcono">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.siguiente_boton">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.siguiente_boton__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.silla">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.tarjeta_de_identificacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.uniforme_de_policia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SheloNabel.My.Resources.Resources.wifi__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SheloNabel.ADMINMODEDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SheloNabel.ADMINMODEDataSet.ADMINMODEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SheloNabel.ADMINMODEDataSet.ADMINMODERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SheloNabel.ADMINMODEDataSet.ADMINMODERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SheloNabel.ADMINMODEDataSetTableAdapters.ADMINMODETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SheloNabel.ADMINMODEDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SheloNabel.ADMINMODEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SheloNabel.ADMINMODEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SheloNabel.ADMINMODEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SheloNabel.ADMINMODEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SheloNabel.ADMINMODEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SheloNabel.ADMINMODEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SheloNabel.ADMINMODEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SheloNabel.ADMINMODEDataSetTableAdapters.TableAdapterManager.UpdateAll(SheloNabel.ADMINMODEDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SheloNabel.ADMINMODEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SheloNabel.ADMINMODEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SheloNabel.LoginSheloDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SheloNabel.LoginSheloDataSet.LoginDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SheloNabel.LoginSheloDataSet.LoginRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SheloNabel.LoginSheloDataSet.LoginRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SheloNabel.LoginSheloDataSetTableAdapters.LoginTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SheloNabel.LoginSheloDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SheloNabel.LoginSheloDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SheloNabel.LoginSheloDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SheloNabel.LoginSheloDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SheloNabel.LoginSheloDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SheloNabel.LoginSheloDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SheloNabel.LoginSheloDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SheloNabel.LoginSheloDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SheloNabel.LoginSheloDataSetTableAdapters.TableAdapterManager.UpdateAll(SheloNabel.LoginSheloDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SheloNabel.LoginSheloDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SheloNabel.LoginSheloDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SheloNabel.PRODUCTOS_FARMACEUTICADataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SheloNabel.PRODUCTOS_FARMACEUTICADataSet.PRODUCTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SheloNabel.PRODUCTOS_FARMACEUTICADataSet.PRODUCTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SheloNabel.PRODUCTOS_FARMACEUTICADataSet.PRODUCTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.PRODUCTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SheloNabel.PRODUCTOS_FARMACEUTICADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SheloNabel.PRODUCTOS_FARMACEUTICADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SheloNabel.PRODUCTOS_FARMACEUTICADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.TableAdapterManager.UpdateAll(SheloNabel.PRODUCTOS_FARMACEUTICADataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SheloNabel.PRODUCTOS_FARMACEUTICADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SheloNabel.USER_PASSWORDDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SheloNabel.USER_PASSWORDDataSet1.INICIO_DE_SESIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SheloNabel.USER_PASSWORDDataSet1.INICIO_DE_SESIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SheloNabel.USER_PASSWORDDataSet1.INICIO_DE_SESIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SheloNabel.USER_PASSWORDDataSet1TableAdapters.INICIO_DE_SESIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SheloNabel.USER_PASSWORDDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SheloNabel.USER_PASSWORDDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(SheloNabel.USER_PASSWORDDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SheloNabel.USER_PASSWORDDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(SheloNabel.USER_PASSWORDDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SheloNabel.USER_PASSWORDDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(SheloNabel.USER_PASSWORDDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SheloNabel.USER_PASSWORDDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SheloNabel.USER_PASSWORDDataSet1TableAdapters.TableAdapterManager.UpdateAll(SheloNabel.USER_PASSWORDDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SheloNabel.USER_PASSWORDDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SheloNabel.USER_PASSWORDDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

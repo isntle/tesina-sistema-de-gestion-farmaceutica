@@ -1,0 +1,114 @@
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\bin\Debug\LoginShelo.accdb
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\bin\Debug\PRODUCTOS_FARMACEUTICA.accdb
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\bin\Debug\USER_PASSWORD.accdb
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\bin\Debug\SheloNabel.exe.config
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.AssemblyReference.cache
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.SuggestedBindingRedirects.cache
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Calculo.resources
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Creditos.resources
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.BD.resources
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Login.resources
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.CentroAplicaciones.resources
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Ticket.resources
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Estadisticas.resources
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Resources.resources
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.GenerateResource.cache
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.CoreCompileInputs.cache
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.exe
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.xml
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\obj\Debug\SheloNabel.pdb
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\bin\Debug\SheloNabel.exe
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\bin\Debug\SheloNabel.pdb
+F:\SheloNabel Tesina al 100%\SheloNabel\SheloNabel\bin\Debug\SheloNabel.xml
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\LoginShelo.accdb
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\PRODUCTOS_FARMACEUTICA.accdb
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\USER_PASSWORD.accdb
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\SheloNabel.exe.config
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\SheloNabel.exe
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\SheloNabel.pdb
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\SheloNabel.xml
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.AssemblyReference.cache
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.SuggestedBindingRedirects.cache
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Calculo.resources
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Creditos.resources
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.BD.resources
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Login.resources
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.CentroAplicaciones.resources
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Ticket.resources
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Estadisticas.resources
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Resources.resources
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.GenerateResource.cache
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.CoreCompileInputs.cache
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.exe
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.xml
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.pdb
+F:\Tesina Jefe Final\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\ADMINMODE.accdb
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\ADMINMODE.accdb
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\LoginShelo.accdb
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\PRODUCTOS_FARMACEUTICA.accdb
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\USER_PASSWORD.accdb
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\SheloNabel.exe.config
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\SheloNabel.exe
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\SheloNabel.pdb
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\bin\Debug\SheloNabel.xml
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.AssemblyReference.cache
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.SuggestedBindingRedirects.cache
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Calculo.resources
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Creditos.resources
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.BD.resources
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Login.resources
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.CentroAplicaciones.resources
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Ticket.resources
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Estadisticas.resources
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.Resources.resources
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.GenerateResource.cache
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.vbproj.CoreCompileInputs.cache
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.exe
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.xml
+F:\TESINA EXPERIMENTO FINAL\SheloNabel Final - copia\SheloNabel\SheloNabel\obj\Debug\SheloNabel.pdb
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\bin\Debug\ADMINMODE.accdb
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\bin\Debug\LoginShelo.accdb
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\bin\Debug\PRODUCTOS_FARMACEUTICA.accdb
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\bin\Debug\USER_PASSWORD.accdb
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\bin\Debug\SheloNabel.exe.config
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\bin\Debug\SheloNabel.exe
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\bin\Debug\SheloNabel.pdb
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\bin\Debug\SheloNabel.xml
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.vbproj.AssemblyReference.cache
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.vbproj.SuggestedBindingRedirects.cache
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.Calculo.resources
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.Creditos.resources
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.BD.resources
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.Login.resources
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.CentroAplicaciones.resources
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.Ticket.resources
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.Estadisticas.resources
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.Resources.resources
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.vbproj.GenerateResource.cache
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.vbproj.CoreCompileInputs.cache
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.exe
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.xml
+F:\JUGANDO LOL HASTA ENTREGAR LA TESINA\SheloNabel 2.0\SheloNabel\obj\Debug\SheloNabel.pdb
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\bin\Debug\ADMINMODE.accdb
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\bin\Debug\LoginShelo.accdb
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\bin\Debug\PRODUCTOS_FARMACEUTICA.accdb
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\bin\Debug\USER_PASSWORD.accdb
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\bin\Debug\SheloNabel.exe.config
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\bin\Debug\SheloNabel.exe
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\bin\Debug\SheloNabel.pdb
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\bin\Debug\SheloNabel.xml
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.vbproj.AssemblyReference.cache
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.Calculo.resources
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.Creditos.resources
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.BD.resources
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.Login.resources
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.CentroAplicaciones.resources
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.Ticket.resources
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.Estadisticas.resources
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.Resources.resources
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.vbproj.GenerateResource.cache
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.vbproj.CoreCompileInputs.cache
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.exe
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.xml
+C:\Users\Jasam\Desktop\SheloNabelAPP\SheloNabel\obj\Debug\SheloNabel.pdb
